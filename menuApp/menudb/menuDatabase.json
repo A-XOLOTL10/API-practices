@@ -1,0 +1,52 @@
+[[
+    {
+        "ÏD":"101",
+        "name":"Tea and Bread",
+        "price":"$30",
+        "prep-time":"5mins"
+    },{
+        "ÏD":"102",
+        "name":"Yam and Egg Sauce with Wine",
+        "price":"$50",
+        "prep-time":"15mins"
+    },{
+        "ÏD":"103",
+        "name":"Pancakes And Juice",
+        "price":"$40",
+        "prep-time":"5mins"
+    }
+],[
+    {
+        "ÏD":"201",
+        "name":"Ewa-goin",
+        "price":"$35",
+        "prep-time":"10mins"
+    },{
+        "ÏD":"202",
+        "name":"Eba and Okro",
+        "price":"$60",
+        "prep-time":"25mins"
+    },{
+        "ÏD":"203",
+        "name":"White and Stew",
+        "price":"$45",
+        "prep-time":"15mins"
+    }
+],[
+    {
+        "ÏD":"301",
+        "name":"Salad",
+        "price":"$30",
+        "prep-time":"10mins"
+    },{
+        "ÏD":"302",
+        "name":"Mac and Cheese",
+        "price":"$50",
+        "prep-time":"45mins"
+    },{
+        "ÏD":"303",
+        "name":"Noodles",
+        "price":"$20",
+        "prep-time":"15mins"
+    }
+]]
